@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="one_tap_memory_boost"
+        android:enabled="true"
+        android:icon="@drawable/ic_cleaner_emblem"
+        android:shortcutShortLabel="@string/shortcut_boost_short"
+        android:shortcutLongLabel="@string/shortcut_boost_long">
+        <intent
+            android:action="com.example.action.SHORTCUT_MEMORY_BOOST"
+            android:targetPackage="com.aistudio.cleanpro.vkrtxm"
+            android:targetClass="com.example.widget.MemoryBoostShortcutActivity" />
+    </shortcut>
+</shortcuts>

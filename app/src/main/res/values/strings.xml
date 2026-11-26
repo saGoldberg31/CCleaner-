@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">منظف برو</string>
+    <string name="nav_dashboard">التنظيف</string>
+    <string name="nav_files">الملفات</string>
+    <string name="nav_apps">التطبيقات</string>
+    <string name="nav_monitor">النظام</string>
+    <string name="nav_pro">الإعدادات</string>
+
+    <string name="scan_now">فحص ذكي شامل</string>
+    <string name="scanning">جاري الفحص العميق…</string>
+    <string name="clean_selected">تنظيف المحدد</string>
+    <string name="add_folder">إضافة مجلد للفحص</string>
+    <string name="pick_photos_duplicates">فحص الصور المكررة</string>
+    <string name="system_storage_manager">مدير تخزين النظام</string>
+    <string name="grant_usage_access">تفعيل إحصائيات التطبيقات</string>
+    <string name="confirm_delete_title">تأكيد الحذف النهائي</string>
+    <string name="confirm_delete_cancel">إلغاء</string>
+    <string name="confirm_delete_action">حذف نهائي</string>
+
+    <string name="notification_channel_name">تنبيهات منظف برو</string>
+    <string name="notification_channel_desc">تذكيرات فحص التخزين وتنظيف الملفات المؤقتة</string>
+    <string name="notification_title">تنبيه مساحة التخزين</string>
+    <string name="notification_body_high_usage">استهلاك مساحة التخزين وصل إلى %1$d%%. اضغط لإجراء فحص وتنظيف سريع.</string>
+    <string name="notification_body_routine">حان موعد الفحص الدوري لجهازك للحفاظ على سرعة الأداء.</string>
+    <string name="quick_clean_channel_name">شريط التنظيف السريع</string>
+    <string name="quick_clean_channel_desc">إشعار دائم لمراقبة RAM والتخزين وتنظيف الكاش بضغطة واحدة</string>
+    <string name="quick_clean_notification_title">منظف برو • مراقبة سريعة</string>
+    <string name="quick_clean_action_cache">تنظيف الكاش</string>
+
+    <string name="widget_name">تعزيز الذاكرة بنقرة واحدة</string>
+    <string name="widget_description">ودجت الشاشة الرئيسية لتسريع ذاكرة RAM بنقرة واحدة دون فتح التطبيق</string>
+    <string name="widget_title">منظف برو • RAM</string>
+    <string name="widget_boost_action">تسريع فوري ⚡</string>
+    <string name="widget_boosting">جاري التسريع…</string>
+    <string name="widget_ready">جاهز للتعزيز بنقرة واحدة</string>
+    <string name="widget_boosted_toast">تم تسريع الذاكرة وتحرير %1$s من RAM بنجاح! 🚀</string>
+    <string name="widget_boost_nothing">لا توجد عمليات تستحق التسريع حاليًا</string>
+    <string name="widget_boost_stopped_count">تم إيقاف %d تطبيق</string>
+    <string name="widget_boost_failed">تعذّر إكمال التسريع</string>
+    <string name="shortcut_boost_short">تسريع فوري</string>
+    <string name="shortcut_boost_long">تسريع ذاكرة RAM بنقرة واحدة</string>
+    <string name="pin_widget_action">تثبيت ودجت التسريع بالشاشة الرئيسية</string>
+    <string name="pin_shortcut_action">تثبيت اختصار التسريع بالشاشة الرئيسية</string>
+    <string name="widget_pinned_success">تم إرسال طلب إضافة الودجت إلى الشاشة الرئيسية بنجاح</string>
+    <string name="shortcut_pinned_success">تم إرسال طلب إضافة الاختصار إلى الشاشة الرئيسية بنجاح</string>
+</resources>
